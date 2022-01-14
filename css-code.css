@@ -1,0 +1,223 @@
+.background{
+  /*background-image: linear-gradient(#FFCCCC, white, #9FCCFF);*/
+  background-color: #FFCCCC;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.white{
+  background-color: white;
+  margin: 4.5%;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.titlepic{
+  background-image: url(http://blog.konga.com/wp-content/uploads/2019/03/London.jpg);
+  height: 250px;
+  width: 1100px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+  padding-left: 300px;
+  padding-top: 150px;
+  color: Black;
+  font-size: 55px;
+  font-family: arial black;
+}
+
+.name{
+    padding-left: 90px;
+    font-size: 20px;
+    font-family: arial;
+}
+
+.title{
+  background-color: white;
+  width: 805px;
+  padding-left: 8px;
+}
+
+.line{
+  padding-left: 90px;
+  font-size: 45px;
+}
+
+h2{
+  padding-left: 90px;
+  font-size: 30px;
+}
+
+.englishbreakfast{
+  padding-left: 95px;
+}
+
+.eb{
+  display: flex;
+
+}
+.ebbox{
+  background-color: #C2DFFF;
+  height: auto;
+  width: 513px;
+  margin-left: 50px;
+  padding: 3%;
+  font-family: arial;
+  font-size: 20px;
+
+}
+
+.fc{
+  display: flex;
+}
+
+.fcbox{
+  background-color: #C2DFFF;
+  height: auto;
+  width: 513px;
+  margin-left: 50px;
+  padding: 3%;
+  font-family: arial;
+  font-size: 21px;
+}
+
+.fishchips{
+  padding-left: 95px;
+}
+
+.at{
+  display: flex;
+}
+
+.atbox{
+  background-color: #C2DFFF;
+  height: auto;
+  width: 513px;
+  margin-left: 50px;
+  padding: 3%;
+  font-family: arial;
+  font-size: 21px;
+}
+
+.afternoontea{
+  padding-left: 95px;
+}
+
+.bm{
+  display: flex;
+}
+
+.bmbox{
+  background-color: #C2DFFF;
+  height: auto;
+  width: 513px;
+  margin-left: 50px;
+  padding: 3%;
+  font-family: arial;
+  font-size: 21px;
+}
+
+.bangersmash{
+  padding-left: 95px;
+}
+
+.sr{
+  display: flex;
+}
+
+.srbox{
+  background-color: #C2DFFF;
+  height: autox;
+  width: 513px;
+  margin-left: 50px;
+  padding: 3%;
+  font-family: arial;
+  font-size: 21px;
+}
+
+.sundayroast{
+  padding-left: 95px;
+}
+
+.em{
+  display: flex;
+}
+
+.embox{
+  background-color: #C2DFFF;
+  height: auto;
+  width: 513px;
+  margin-left: 50px;
+  padding: 3%;
+  font-family: arial;
+  font-size: 21px;
+}
+
+.etonmess{
+  padding-left: 95px;
+}
+
+.stp{
+  display: flex;
+}
+
+.stpbox{
+  background-color: #C2DFFF;
+  height: auto;
+  width: 513px;
+  margin-left: 50px;
+  padding: 3%;
+  font-family: arial;
+  font-size: 21px;
+  padding-top: 50px;
+}
+
+.stickytoffeepudding{
+  padding-left: 95px;
+}
+
+.c{
+  display: flex;
+}
+
+.cbox{
+  background-color: #C2DFFF;
+  height: auto;
+  width: 513px;
+  margin-left: 50px;
+  padding: 3%;
+  padding-top: 50px;
+  font-family: arial;
+  font-size: 21px;
+}
+
+.cockles{
+  padding-left: 95px;
+}
+
+.yp{
+  display: flex;
+}
+
+.ypbox{
+  background-color: #C2DFFF;
+  height: auto;
+  width: 513px;
+  margin-left: 50px;
+  padding: 3%;
+  font-family: arial;
+  font-size: 21px;
+}
+
+.yorkshirepudding{
+  padding-left: 95px;
+}
