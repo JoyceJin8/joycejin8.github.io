@@ -1,0 +1,40 @@
+/*
+element selector
+class selector
+id selector
+*/
+
+/*element selector
+  -makes all the element have the attribute*/
+p {
+	color: red;
+}
+h3{color: blueviolet;}
+
+/*class selector
+  - used for similar, groups of cases */
+.about-list-item {
+	color: lightblue;
+}
+
+/*id selector
+   - for specific cases*/
+#my-name {
+	font-style: italic;
+}
+
+
+.grid-table {
+	display: grid;
+	grid-template-rows: auto auto
+	grid-template-columns: auto auto auto
+}
+
+/*for mobile device*/
+@media (max-width: 600px) {
+	.grid-table {
+		grid-template-columns: auto;
+		grid-template-rows: auto auto auto auto auto auto
+
+	}
+}
